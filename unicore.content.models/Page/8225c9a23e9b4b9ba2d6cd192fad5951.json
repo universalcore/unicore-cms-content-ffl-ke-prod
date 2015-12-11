@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "All pregnant women should talk to their health-care providers about HIV. All pregnant women who think they, their partners or family members are infected with HIV, have been exposed to HIV or live in a setting with a generalized HIV epidemic should get an HIV test and counselling to learn how to protect or care for themselves and their children, partners and family members.", 
-  "language": "eng_GB", 
+  "language": "eng_US", 
   "title": "All pregnant women should talk to their health-care providers about HIV. All pregnant women who think they, their partners or family members are infected with HIV, have been exposed to HIV or live in ", 
   "primary_category": "99fdaf31bc2949a5ab89f7b2217811d6", 
   "created_at": "2014-09-15T09:20:32.886181+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:56.427097+00:00", 
+  "modified_at": "2015-12-11T10:21:10.765438+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "all-pregnant-women-should-talk-to-their-health-care-providers-about-hiv-all-pregnant-women-who-think-they-their-partners-or-family-members-are-infected-with-hiv-have-been-exposed-to-hiv-or-live-in", 
   "uuid": "8225c9a23e9b4b9ba2d6cd192fad5951"
 }
