@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Kuanzia umri wa miezi 6 hadi 8, mtoto anahitaji kula mara 2\r\nhadi 3 kwa siku na kisha mara 3 hadi 4 kwa siku\u2014ikiwa ni\r\npamoja na kunyonya maziwa ya mama. Kutegemeana na hamu\r\nya kula ya mtoto, mlo wenye lishe mmoja au mbili kama vile\r\nmatunda au mkate ulipakwa siagi (mfano ya karanga) unaweza\r\nkuhitajika. Mzazi au mlezi anapaswa kuanza kumlisha mtoto\r\nkiasi kidogo cha chakula na kukiongeza taratibu kadiri mtoto\r\nanavyozidi kukua. ", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Kuanzia umri wa miezi 6 hadi 8, mtoto anahitaji kula mara 2 hadi 3 kwa siku na kisha mara 3 hadi 4 kwa siku\u2014ikiwa ni pamoja na kunyonya maziwa ya mama. Kutegemeana na hamu ya kula ya mtoto, mlo wenye ", 
   "primary_category": "580d1f91a1c84a08a30f201143d4f3a9", 
   "created_at": "2014-10-12T19:04:44.413882+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:43.889241+00:00", 
+  "modified_at": "2015-12-11T10:24:12.130455+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 6, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "kuanzia-umri-wa-miezi-6-hadi-8-mtoto-anahitaji-kula-mara-2-hadi-3-kwa-siku-na-kisha-mara-3-hadi-4-kwa-sikuikiwa-ni-pamoja-na-kunyonya-maziwa-ya-mama-kutegemeana-na-hamu-ya-kula-ya-mtoto-mlo-wenye", 
   "uuid": "b8e145aef3534f4085f6bb1baed16ce4"
 }
