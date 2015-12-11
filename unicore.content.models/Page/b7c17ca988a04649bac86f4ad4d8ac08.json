@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Kumnyonyesha mtoto maziwa ya mama pekee kwa kipindi\r\ncha miezi sita ya mwanzo tangu kuzaliwa na kuendelea\r\nkumnyonyesha baada ya miezi sita kunaweza kupunguza hatari\r\nzinazohusiana na ugonjwa wa kuhara. Utoaji wa chanjo ya kinga\r\ndhidi ya virusi aina ya rota (inaposhauriwa na kama inapatikana)\r\nhupunguza vifo vinavyotokana na ugonjwa wa kuhara\r\nunaosababishwa na virusi hivyo. Virutubisho kama Vitamini\r\nA na zinki vinaweza kupunguza hatari ya kupata ugonjwa wa\r\nkuhara. ", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Kumnyonyesha mtoto maziwa ya mama pekee kwa kipindi cha miezi sita ya mwanzo tangu kuzaliwa na kuendelea kumnyonyesha baada ya miezi sita kunaweza kupunguza hatari zinazohusiana na ugonjwa wa kuhara. ", 
   "primary_category": "9e39b5f245b241b2af54c96932454c32", 
   "created_at": "2014-10-12T20:20:26.905973+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:37.958773+00:00", 
+  "modified_at": "2015-12-11T10:24:40.927386+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "kumnyonyesha-mtoto-maziwa-ya-mama-pekee-kwa-kipindi-cha-miezi-sita-ya-mwanzo-tangu-kuzaliwa-na-kuendelea-kumnyonyesha-baada-ya-miezi-sita-kunaweza-kupunguza-hatari-zinazohusiana-na-ugonjwa-wa-kuhara", 
   "uuid": "b7c17ca988a04649bac86f4ad4d8ac08"
 }
