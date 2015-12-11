@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Ugonjwa unaweza kuenea haraka watu wanapokusanyika\r\npamoja. Watoto wote wanaoishi katika mazingira yenye\r\nmsongamano, hususani katika mazingira ya ukimbizi au majanga,\r\nwanapaswa kupewa chanjo haraka hususani dhidi ya surua", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Ugonjwa unaweza kuenea haraka watu wanapokusanyika pamoja. Watoto wote wanaoishi katika mazingira yenye msongamano, hususani katika mazingira ya ukimbizi au majanga, wanapaswa kupewa chanjo haraka hus", 
   "primary_category": "f1977f57cd124b348820df64ee59bc1a", 
   "created_at": "2014-10-12T19:57:28.521186+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:39.289665+00:00", 
+  "modified_at": "2015-12-11T10:23:37.582391+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": true, 
   "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "ugonjwa-unaweza-kuenea-haraka-watu-wanapokusanyika-pamoja-watoto-wote-wanaoishi-katika-mazingira-yenye-msongamano-hususani-katika-mazingira-ya-ukimbizi-au-majanga-wanapaswa-kupewa-chanjo-haraka-hus", 
   "uuid": "d448ef02ebee471f94083e90ecea9d2c"
 }
