@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Kuwahimiza watoto kucheza na kutambua mambo mapya\r\nhuwasaidia kujifunza na kubadilika kimahusiano, kihisia, kimwili\r\nna kiakili. Hali hiyo huwafanya watoto wawe tayari kuanza\r\nshule.", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Kuwahimiza watoto kucheza na kutambua mambo mapya huwasaidia kujifunza na kubadilika kimahusiano, kihisia, kimwili na kiakili. Hali hiyo huwafanya watoto wawe tayari kuanza shule.", 
   "primary_category": "84c39134746243a1a04fc013fd1b1e0e", 
   "created_at": "2014-10-12T17:31:29.242402+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:48.717009+00:00", 
+  "modified_at": "2015-12-11T10:24:18.760915+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 3, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "kuwahimiza-watoto-kucheza-na-kutambua-mambo-mapya-huwasaidia-kujifunza-na-kubadilika-kimahusiano-kihisia-kimwili-na-kiakili-hali-hiyo-huwafanya-watoto-wawe-tayari-kuanza-shule", 
   "uuid": "a8a377d6dbe04f5c972de95d7ba814d5"
 }
