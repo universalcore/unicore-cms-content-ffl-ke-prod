@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Entering primary school on time is critical to ensure the continuity of a child's development. Support from parents, other caregivers, teachers and the community is very important.", 
-  "language": "eng_GB", 
+  "language": "eng_US", 
   "title": "Entering primary school on time is critical to ensure the continuity of a child's development. Support from parents, other caregivers, teachers and the community is very important.", 
   "primary_category": "5eb7b6c9d98e4cec8aab6735acb4ef08", 
   "created_at": "2014-09-10T13:39:20.878815+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:21:23.184743+00:00", 
+  "modified_at": "2015-12-11T10:20:41.534840+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "entering-primary-school-on-time-is-critical-to-ensure-the-continuity-of-a-childs-development-support-from-parents-other-caregivers-teachers-and-the-community-is-very-important", 
   "uuid": "cc672eb42b8749509bddc0266f153af0"
 }
