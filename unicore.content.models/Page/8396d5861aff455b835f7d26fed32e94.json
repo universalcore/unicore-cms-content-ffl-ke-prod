@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Children need vitamin A to help resist illness, protect their eyesight and reduce the risk of death. Vitamin A can be found in many fruits and vegetables, red palm oil, eggs, dairy products, liver, fish, meat, fortified foods and breastmilk. In areas where vitamin A deficiency is common, high-dose vitamin A supplements can also be given every four to six months to children aged 6 months to 5 years.", 
-  "language": "eng_GB", 
+  "language": "eng_US", 
   "title": "Children need vitamin A to help resist illness, protect their eyesight and reduce the risk of death. Vitamin A can be found in many fruits and vegetables, red palm oil, eggs, dairy products, liver, fi", 
   "primary_category": "6dab72d2d4c34cbfb4fe91df729cdbb0", 
   "created_at": "2014-09-12T09:09:43.340425+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:21:16.699246+00:00", 
+  "modified_at": "2015-12-11T10:21:45.499457+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "children-need-vitamin-a-to-help-resist-illness-protect-their-eyesight-and-reduce-the-risk-of-death-vitamin-a-can-be-found-in-many-fruits-and-vegetables-red-palm-oil-eggs-dairy-products-liver-fi", 
   "uuid": "8396d5861aff455b835f7d26fed32e94"
 }
