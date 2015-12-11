@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Mama wajawazito wote na watoto wao wachanga wanapaswa\r\nkupewa chanjo dhidi ya pepopunda. Hata kama mama alishapata\r\nchanjo siku za nyuma, anapaswa kumuona mtaalamu wa afya ili\r\napate ushauri wa chanjo inayofaa ya pepopunda.", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Mama wajawazito wote na watoto wao wachanga wanapaswa kupewa chanjo dhidi ya pepopunda. Hata kama mama alishapata chanjo siku za nyuma, anapaswa kumuona mtaalamu wa afya ili apate ushauri wa chanjo in", 
   "primary_category": "f1977f57cd124b348820df64ee59bc1a", 
   "created_at": "2014-10-12T19:45:40.276705+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:40.000463+00:00", 
+  "modified_at": "2015-12-11T10:23:37.726850+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 3, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "mama-wajawazito-wote-na-watoto-wao-wachanga-wanapaswa-kupewa-chanjo-dhidi-ya-pepopunda-hata-kama-mama-alishapata-chanjo-siku-za-nyuma-anapaswa-kumuona-mtaalamu-wa-afya-ili-apate-ushauri-wa-chanjo", 
   "uuid": "f3e7a797a3bd4f148078e7c26ac537a2"
 }
