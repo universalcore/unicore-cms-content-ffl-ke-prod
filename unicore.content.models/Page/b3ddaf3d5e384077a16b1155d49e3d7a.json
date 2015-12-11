@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Surua, kuhara, homa ya vichomi, malaria, utapiamlo na matatizo\r\nya mtoto aliyezaliwa muda mfupi uliopita ni vyanzo vikubwa\r\nvinavyochangia vifo vya watoto wakati wa dharura. ", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Surua, kuhara, homa ya vichomi, malaria, utapiamlo na matatizo ya mtoto aliyezaliwa muda mfupi uliopita ni vyanzo vikubwa vinavyochangia vifo vya watoto wakati wa dharura. ", 
   "primary_category": "de2b830c9bc74c8590ed0ffdc90f2758", 
   "created_at": "2014-10-13T12:53:04.555147+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:26.551536+00:00", 
+  "modified_at": "2015-12-11T10:23:52.692287+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 7, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "surua-kuhara-homa-ya-vichomi-malaria-utapiamlo-na-matatizo-ya-mtoto-aliyezaliwa-muda-mfupi-uliopita-ni-vyanzo-vikubwa-vinavyochangia-vifo-vya-watoto-wakati-wa-dharura", 
   "uuid": "b3ddaf3d5e384077a16b1155d49e3d7a"
 }
