@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Mtoto ambaye ana kikohozi cha muda mrefu kilichodumu kwa\r\nmuda wa zaidi ya wiki tatu anahitaji kufanyiwa uchunguzi\r\nharaka. Mtoto anaweza kuwa na kifua kikuu, maambukizo katika\r\nmapafu. ", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Mtoto ambaye ana kikohozi cha muda mrefu kilichodumu kwa muda wa zaidi ya wiki tatu anahitaji kufanyiwa uchunguzi haraka. Mtoto anaweza kuwa na kifua kikuu, maambukizo katika mapafu. ", 
   "primary_category": "2ffe198e7447448e825f4cb543fb7267", 
   "created_at": "2014-10-13T09:12:56.142954+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:34.862174+00:00", 
+  "modified_at": "2015-12-11T10:24:28.399834+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": true, 
   "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "mtoto-ambaye-ana-kikohozi-cha-muda-mrefu-kilichodumu-kwa-muda-wa-zaidi-ya-wiki-tatu-anahitaji-kufanyiwa-uchunguzi-haraka-mtoto-anaweza-kuwa-na-kifua-kikuu-maambukizo-katika-mapafu", 
   "uuid": "26b57b88b5414c7e9cdb80dbc5ef6d34"
 }
