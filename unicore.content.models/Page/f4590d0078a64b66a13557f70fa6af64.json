@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Kila palipo na malaria, watoto huwa wako hatarini. Mtoto\r\nanayeumwa malaria anapaswa kuchunguzwa mapema na\r\nmtaalam wa afya na kupata tiba sahihi dhidi ya malaria mapema\r\niwezekanavyo akibainika kuwa na malaria. Shirika la Afya\r\nDuniani linashauri kutumia tiba mchanganyiko ya Artemisinin\r\nkwa ajili ya kutibu ugonjwa wa malaria unaosababishwa na\r\nvimelea vinavyofahamika kama Plasmodium falciparu. Malaria\r\ninayosababishwa na vimelea hawa ni hatari sana na husababisha\r\nkaribu vifo vyote vitokanavyo na malaria", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Kila palipo na malaria, watoto huwa wako hatarini. Mtoto anayeumwa malaria anapaswa kuchunguzwa mapema na mtaalam wa afya na kupata tiba sahihi dhidi ya malaria mapema iwezekanavyo akibainika kuwa na ", 
   "primary_category": "50790d85e8594cb192f47187ec0b26d0", 
   "created_at": "2014-10-13T13:49:19.571343+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:23.570947+00:00", 
+  "modified_at": "2015-12-11T10:24:34.728722+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "kila-palipo-na-malaria-watoto-huwa-wako-hatarini-mtoto-anayeumwa-malaria-anapaswa-kuchunguzwa-mapema-na-mtaalam-wa-afya-na-kupata-tiba-sahihi-dhidi-ya-malaria-mapema-iwezekanavyo-akibainika-kuwa-na", 
   "uuid": "f4590d0078a64b66a13557f70fa6af64"
 }
