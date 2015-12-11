@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Msaada wa kipato na huduma za ustawi wa jamii zinaweza\r\nkuzisaidia familia pamoja na watoto walio shuleni na\r\nkuhakikisha huduma za afya zinapatikana.", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Msaada wa kipato na huduma za ustawi wa jamii zinaweza kuzisaidia familia pamoja na watoto walio shuleni na kuhakikisha huduma za afya zinapatikana.", 
   "primary_category": "76ea8c058e6843689bda31c8c5c31776", 
   "created_at": "2014-10-13T15:53:48.583216+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:16.480283+00:00", 
+  "modified_at": "2015-12-11T10:24:56.621020+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": true, 
   "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "msaada-wa-kipato-na-huduma-za-ustawi-wa-jamii-zinaweza-kuzisaidia-familia-pamoja-na-watoto-walio-shuleni-na-kuhakikisha-huduma-za-afya-zinapatikana", 
   "uuid": "7aec8b35bee240d2bd38bb68b615a6cc"
 }
