@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Almost every mother can breastfeed successfully. Breastfeeding the baby frequently causes production of more milk. The baby should breastfeed at least eight times daily, day and night, and on demand.", 
-  "language": "eng_GB", 
+  "language": "eng_US", 
   "title": "Almost every mother can breastfeed successfully. Breastfeeding the baby frequently causes production of more milk. The baby should breastfeed at least eight times daily, day and night, and on demand.", 
   "primary_category": "1ea47579bccd4d0d85e0ffa5c3ce3cda", 
   "created_at": "2014-09-10T14:14:48.096324+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:21:19.468988+00:00", 
+  "modified_at": "2015-12-11T10:20:28.868332+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "almost-every-mother-can-breastfeed-successfully-breastfeeding-the-baby-frequently-causes-production-of-more-milk-the-baby-should-breastfeed-at-least-eight-times-daily-day-and-night-and-on-demand", 
   "uuid": "275e8d0ff94346eb9856cd5b2064ecca"
 }
