@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Haki zitumikazo kwa watoto zinapaswa kutokana na haki za\r\nwatoto. Kuingilia uhuru wa watoto (kuwafunga jela) ni lazima\r\nliwe suluhisho la mwisho kabisa. Taratibu ambazo zinawagusa\r\nwatoto ambao ni waathirika au ni mashuhuda wa uhalifu\r\nzinapaswa kuwekwa. ", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Haki zitumikazo kwa watoto zinapaswa kutokana na haki za watoto. Kuingilia uhuru wa watoto (kuwafunga jela) ni lazima liwe suluhisho la mwisho kabisa. Taratibu ambazo zinawagusa watoto ambao ni waathi", 
   "primary_category": "76ea8c058e6843689bda31c8c5c31776", 
   "created_at": "2014-10-13T15:51:43+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:16.833761+00:00", 
+  "modified_at": "2015-12-11T10:24:56.700742+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "haki-zitumikazo-kwa-watoto-zinapaswa-kutokana-na-haki-za-watoto-kuingilia-uhuru-wa-watoto-kuwafunga-jela-ni-lazima-liwe-suluhisho-la-mwisho-kabisa-taratibu-ambazo-zinawagusa-watoto-ambao-ni-waathi", 
   "uuid": "0fb271444c2740dfbdedae08ada5caed"
 }
