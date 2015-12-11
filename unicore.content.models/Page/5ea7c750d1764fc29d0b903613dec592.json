@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Watoto wachanga hujifunza kwa kasi sana tangu pale\r\nwanapozaliwa. Hukua na kujifunza vizuri zaidi pale wazazi\r\nna walezi wengine wanaowajali wanapowaonyesha upendo,\r\nkuwashirikisha katika mambo wanayoyamudu pamoja na\r\nkuwapatia lishe bora, huduma nzuri ya afya na ulinzi.", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Watoto wachanga hujifunza kwa kasi sana tangu pale wanapozaliwa. Hukua na kujifunza vizuri zaidi pale wazazi na walezi wengine wanaowajali wanapowaonyesha upendo, kuwashirikisha katika mambo wanayoyam", 
   "primary_category": "84c39134746243a1a04fc013fd1b1e0e", 
   "created_at": "2014-10-12T17:24:49.357871+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:49.026249+00:00", 
+  "modified_at": "2015-12-11T10:24:18.832866+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "watoto-wachanga-hujifunza-kwa-kasi-sana-tangu-pale-wanapozaliwa-hukua-na-kujifunza-vizuri-zaidi-pale-wazazi-na-walezi-wengine-wanaowajali-wanapowaonyesha-upendo-kuwashirikisha-katika-mambo-wanayoyam", 
   "uuid": "5ea7c750d1764fc29d0b903613dec592"
 }
