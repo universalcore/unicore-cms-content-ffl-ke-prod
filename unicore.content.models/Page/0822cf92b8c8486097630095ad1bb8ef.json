@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Watoto wanapaswa kulindwa kutokana na kazi za hatari. Kazi zisizuie\r\nwatoto kwenda shuleni. Watoto kamwe hawapaswi kujihusisha na\r\naina yoyote ya kazi mbaya za watoto, kama vile utumwa, kazi za\r\nkulazimishwa, uzalishaji na usafirishaji wa dawa za kulevya. ", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Watoto wanapaswa kulindwa kutokana na kazi za hatari. Kazi zisizuie watoto kwenda shuleni. Watoto kamwe hawapaswi kujihusisha na aina yoyote ya kazi mbaya za watoto, kama vile utumwa, kazi za kulazimi", 
   "primary_category": "76ea8c058e6843689bda31c8c5c31776", 
   "created_at": "2014-10-13T15:43:52.514415+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:18.015329+00:00", 
+  "modified_at": "2015-12-11T10:24:56.948172+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 5, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "watoto-wanapaswa-kulindwa-kutokana-na-kazi-za-hatari-kazi-zisizuie-watoto-kwenda-shuleni-watoto-kamwe-hawapaswi-kujihusisha-na-aina-yoyote-ya-kazi-mbaya-za-watoto-kama-vile-utumwa-kazi-za-kulazimi", 
   "uuid": "0822cf92b8c8486097630095ad1bb8ef"
 }
