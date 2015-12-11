@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "A woman employed away from her home can continue to breastfeed her child. She should breastfeed as often as possible when she is with the infant and express her breastmilk when they are apart so that another caregiver can feed it to the baby in a clean and safe way.", 
-  "language": "eng_GB", 
+  "language": "eng_US", 
   "title": "A woman employed away from her home can continue to breastfeed her child. She should breastfeed as often as possible when she is with the infant and express her breastmilk when they are apart so that ", 
   "primary_category": "1ea47579bccd4d0d85e0ffa5c3ce3cda", 
   "created_at": "2014-09-10T13:54:22.405841+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:21:20.878149+00:00", 
+  "modified_at": "2015-12-11T10:20:29.195159+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 6, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "a-woman-employed-away-from-her-home-can-continue-to-breastfeed-her-child-she-should-breastfeed-as-often-as-possible-when-she-is-with-the-infant-and-express-her-breastmilk-when-they-are-apart-so-that", 
   "uuid": "2bc3244f7ced4c3f99e2b7304a661faa"
 }
