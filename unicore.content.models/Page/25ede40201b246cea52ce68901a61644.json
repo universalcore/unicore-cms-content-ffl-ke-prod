@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Karibu kila mama anaweza kunyonyesha vizuri. Unyonyeshaji\r\nwa mtoto mara kwa mara humfanya mama atoe maziwa mengi\r\nzaidi. Mtoto anapaswa kunyonyeshwa walau mara 8 kwa siku,\r\nusiku na mchana na wakati wowote atakapotaka kunyonya. ", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Karibu kila mama anaweza kunyonyesha vizuri. Unyonyeshaji wa mtoto mara kwa mara humfanya mama atoe maziwa mengi zaidi. Mtoto anapaswa kunyonyeshwa walau mara 8 kwa siku, usiku na mchana na wakati wow", 
   "primary_category": "eadb116abd4b427c84316e8f3963b2d6", 
   "created_at": "2014-10-12T18:23:46.784988+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:46.804588+00:00", 
+  "modified_at": "2015-12-11T10:23:58.622973+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 5, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "karibu-kila-mama-anaweza-kunyonyesha-vizuri-unyonyeshaji-wa-mtoto-mara-kwa-mara-humfanya-mama-atoe-maziwa-mengi-zaidi-mtoto-anapaswa-kunyonyeshwa-walau-mara-8-kwa-siku-usiku-na-mchana-na-wakati-wow", 
   "uuid": "25ede40201b246cea52ce68901a61644"
 }
