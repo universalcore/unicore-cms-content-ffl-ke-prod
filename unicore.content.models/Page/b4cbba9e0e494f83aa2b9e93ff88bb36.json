@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Kuungua kunaweza kuzuilika kwa kuhakikisha kuwa watoto\r\nwanakaa mbali na mioto, meko, vimiminika na vyakula vya\r\nmoto, na nyaya za umeme zilizo wazi.", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Kuungua kunaweza kuzuilika kwa kuhakikisha kuwa watoto wanakaa mbali na mioto, meko, vimiminika na vyakula vya moto, na nyaya za umeme zilizo wazi.", 
   "primary_category": "8db1a6f44dd9426da7a50a4664bb84cf", 
   "created_at": "2014-10-13T11:34:03.281684+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:29.941655+00:00", 
+  "modified_at": "2015-12-11T10:24:48.641424+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "kuungua-kunaweza-kuzuilika-kwa-kuhakikisha-kuwa-watoto-wanakaa-mbali-na-mioto-meko-vimiminika-na-vyakula-vya-moto-na-nyaya-za-umeme-zilizo-wazi", 
   "uuid": "b4cbba9e0e494f83aa2b9e93ff88bb36"
 }
