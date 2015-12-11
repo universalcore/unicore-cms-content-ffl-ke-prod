@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Mabomu ya kutegwa ardhini na zana nyingine za vita ambazo\r\nhazijalipuka ni hatari sana. Vinaweza kulipuka na kuua au\r\nkusababisha ulemavu kwa watu wengi vikiguswa, vikikanyagwa\r\nau vikichezewa kwa njia yoyote ile. Watoto wanapaswa\r\nkuonywa kuwa wakae mbali na vifaa visivyojulikana na kucheza\r\nkatika maeneo yale tu yaliyohakikishwa kuwa salama.", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Mabomu ya kutegwa ardhini na zana nyingine za vita ambazo hazijalipuka ni hatari sana. Vinaweza kulipuka na kuua au kusababisha ulemavu kwa watu wengi vikiguswa, vikikanyagwa au vikichezewa kwa njia y", 
   "primary_category": "de2b830c9bc74c8590ed0ffdc90f2758", 
   "created_at": "2014-10-13T13:34:37.340715+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:24.233059+00:00", 
+  "modified_at": "2015-12-11T10:23:52.127748+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "mabomu-ya-kutegwa-ardhini-na-zana-nyingine-za-vita-ambazo-hazijalipuka-ni-hatari-sana-vinaweza-kulipuka-na-kuua-au-kusababisha-ulemavu-kwa-watu-wengi-vikiguswa-vikikanyagwa-au-vikichezewa-kwa-njia-y", 
   "uuid": "40860e0085104f6598baf6eac2b4f0e9"
 }
