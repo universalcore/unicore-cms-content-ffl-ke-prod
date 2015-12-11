@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Watoto na mama wajawazito wanaoishi katika mazingira yenye\r\nmoshi wa tumbaku au wa kuni za kupikia wako katika hatari\r\nzaidi ya kuugua nyumonia au magonjwa mengine ya njia ya\r\nhewa. ", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Watoto na mama wajawazito wanaoishi katika mazingira yenye moshi wa tumbaku au wa kuni za kupikia wako katika hatari zaidi ya kuugua nyumonia au magonjwa mengine ya njia ya hewa. ", 
   "primary_category": "2ffe198e7447448e825f4cb543fb7267", 
   "created_at": "2014-10-13T09:24:14.914859+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:34.462369+00:00", 
+  "modified_at": "2015-12-11T10:24:28.322227+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "watoto-na-mama-wajawazito-wanaoishi-katika-mazingira-yenye-moshi-wa-tumbaku-au-wa-kuni-za-kupikia-wako-katika-hatari-zaidi-ya-kuugua-nyumonia-au-magonjwa-mengine-ya-njia-ya-hewa", 
   "uuid": "d8cc72acf0344df7a09fbe29a0626af6"
 }
