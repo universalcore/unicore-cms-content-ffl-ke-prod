@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Newborn babies should be given to the mother to hold immediately after delivery. They should have skin-to-skin contact with the mother and begin breastfeeding within one hour of birth.", 
-  "language": "eng_GB", 
+  "language": "eng_US", 
   "title": "Newborn babies should be given to the mother to hold immediately after delivery. They should have skin-to-skin contact with the mother and begin breastfeeding within one hour of birth.", 
   "primary_category": "1ea47579bccd4d0d85e0ffa5c3ce3cda", 
   "created_at": "2014-09-10T14:15:53.095284+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:21:19.170590+00:00", 
+  "modified_at": "2015-12-11T10:20:28.798031+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": true, 
   "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "newborn-babies-should-be-given-to-the-mother-to-hold-immediately-after-delivery-they-should-have-skin-to-skin-contact-with-the-mother-and-begin-breastfeeding-within-one-hour-of-birth", 
   "uuid": "987e4dc293804ccc9962a69d271e68b4"
 }
