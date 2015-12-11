@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Maisha ya mtoto huwa hatarini ikiwa anahara kwa saa moja\r\nau ikiwa anaharisha damu. Katika hali hii, msaada wa haraka\r\ntoka kwa mtaalam wa afya huhitajika. Wakati huohuo, mtoto\r\narudishiwe maji mwilini kwa kunyweshwa kinywaji maalum cha\r\nchumvichumvi kinachorudisha maji mwilini pia apewe dawa ya\r\nzinki. ", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Maisha ya mtoto huwa hatarini ikiwa anahara kwa saa moja au ikiwa anaharisha damu. Katika hali hii, msaada wa haraka toka kwa mtaalam wa afya huhitajika. Wakati huohuo, mtoto arudishiwe maji mwilini k", 
   "primary_category": "9e39b5f245b241b2af54c96932454c32", 
   "created_at": "2014-10-12T20:16:41.911698+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:38.280313+00:00", 
+  "modified_at": "2015-12-11T10:24:41.003452+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 5, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "maisha-ya-mtoto-huwa-hatarini-ikiwa-anahara-kwa-saa-moja-au-ikiwa-anaharisha-damu-katika-hali-hii-msaada-wa-haraka-toka-kwa-mtaalam-wa-afya-huhitajika-wakati-huohuo-mtoto-arudishiwe-maji-mwilini-k", 
   "uuid": "628e313553b643109f81851659565d9c"
 }
