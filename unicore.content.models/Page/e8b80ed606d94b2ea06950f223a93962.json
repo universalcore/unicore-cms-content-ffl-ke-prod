@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Children are vulnerable to trafficking where protection for children is weak or missing. The government, civil society and families are responsible for preventing trafficking, as well as helping children who are victims to reintegrate into their families and communities, if it is in their best interest.", 
-  "language": "eng_GB", 
+  "language": "eng_US", 
   "title": "Children are vulnerable to trafficking where protection for children is weak or missing. The government, civil society and families are responsible for preventing trafficking, as well as helping child", 
   "primary_category": "d9e9675890c74fad9bbe83edff36bb7c", 
   "created_at": "2014-09-12T10:26:54.431306+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:21:09.336603+00:00", 
+  "modified_at": "2015-12-11T10:20:48.122880+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 5, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "children-are-vulnerable-to-trafficking-where-protection-for-children-is-weak-or-missing-the-government-civil-society-and-families-are-responsible-for-preventing-trafficking-as-well-as-helping-child", 
   "uuid": "e8b80ed606d94b2ea06950f223a93962"
 }
