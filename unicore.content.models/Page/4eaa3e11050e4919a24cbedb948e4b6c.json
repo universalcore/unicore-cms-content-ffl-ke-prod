@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Mlipuko wa ugonjwa unaweza kusababisha hali ya dharura kwa\r\nsababu ya ukubwa wa tatizo lenyewe au kwa sababu ya hatua\r\nzinazochukuliwa na jamii katika kukabiliana na ugonjwa huo.\r\nKwa ugonjwa wa mfua na magonjwa mengine ambayo huenea\r\nkutokanana kukaribiana kati ya mtu na mtu, wazazi na walezi\r\nwengine wanapaswa kuwaweka watoto na wanafamilia wengine\r\nmbali na wagonjwa. Ikiwa mtoto au mwanafamilia mwingine\r\nni mgonjwa wa mafua, anapaswa kutengwa na watoto na\r\nwanafamilia wengine.", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Mlipuko wa ugonjwa unaweza kusababisha hali ya dharura kwa sababu ya ukubwa wa tatizo lenyewe au kwa sababu ya hatua zinazochukuliwa na jamii katika kukabiliana na ugonjwa huo. Kwa ugonjwa wa mfua na ", 
   "primary_category": "de2b830c9bc74c8590ed0ffdc90f2758", 
   "created_at": "2014-10-13T12:55:25.344666+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:26.137569+00:00", 
+  "modified_at": "2015-12-11T10:23:52.609793+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 6, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "mlipuko-wa-ugonjwa-unaweza-kusababisha-hali-ya-dharura-kwa-sababu-ya-ukubwa-wa-tatizo-lenyewe-au-kwa-sababu-ya-hatua-zinazochukuliwa-na-jamii-katika-kukabiliana-na-ugonjwa-huo-kwa-ugonjwa-wa-mfua-na", 
   "uuid": "4eaa3e11050e4919a24cbedb948e4b6c"
 }
