@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Watoto wote wana haki ya kupata taarifa zinazolingana\r\nna umri wao, kusikilizwa na kushiriki katika kutoa uamuzi\r\nunaowahusu. Utekelezaji wa haki hii unawawezesha watoto\r\nkuwajibika kikamilifu katika kujikinga na ukatili, unyanyasaji na\r\nudhalilishaji, na kuwa raia hai.", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Watoto wote wana haki ya kupata taarifa zinazolingana na umri wao, kusikilizwa na kushiriki katika kutoa uamuzi unaowahusu. Utekelezaji wa haki hii unawawezesha watoto kuwajibika kikamilifu katika kuj", 
   "primary_category": "76ea8c058e6843689bda31c8c5c31776", 
   "created_at": "2014-10-13T15:55:55.642589+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:16.114730+00:00", 
+  "modified_at": "2015-12-11T10:24:56.530753+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "watoto-wote-wana-haki-ya-kupata-taarifa-zinazolingana-na-umri-wao-kusikilizwa-na-kushiriki-katika-kutoa-uamuzi-unaowahusu-utekelezaji-wa-haki-hii-unawawezesha-watoto-kuwajibika-kikamilifu-katika-kuj", 
   "uuid": "de2fcfe1102c43dfb22089902bd5be49"
 }
