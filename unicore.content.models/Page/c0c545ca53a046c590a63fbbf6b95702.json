@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Vurugu na msongo wa mawazo unaosababishwa na majanga\r\nya asili na migogoro inayohusisha mapigano zinaweza\r\nkuwaogopesha na kuwaghadhibisha wavulana na wasichana.\r\nMatukio kama hayo yanapotokea, watoto wanapaswa\r\nkuangaliwa kwa karibu na kupewa upendo zaidi. Wanapaswa\r\nkutunzwa kwa usalama wa hali ya juu na kusaidiwa wanapoanza\r\ntena kufanya shughuli zao za kawaida. ", 
-  "language": "eng_GB", 
+  "language": "eng_US", 
   "title": "Vurugu na msongo wa mawazo unaosababishwa na majanga ya asili na migogoro inayohusisha mapigano zinaweza kuwaogopesha na kuwaghadhibisha wavulana na wasichana. Matukio kama hayo yanapotokea, watoto wa", 
   "primary_category": "de2b830c9bc74c8590ed0ffdc90f2758", 
   "created_at": "2014-10-13T13:23:21.752489+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:55.470814+00:00", 
+  "modified_at": "2015-12-11T10:23:52.287305+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "vurugu-na-msongo-wa-mawazo-unaosababishwa-na-majanga-ya-asili-na-migogoro-inayohusisha-mapigano-zinaweza-kuwaogopesha-na-kuwaghadhibisha-wavulana-na-wasichana-matukio-kama-hayo-yanapotokea-watoto-wa", 
   "uuid": "c0c545ca53a046c590a63fbbf6b95702"
 }
