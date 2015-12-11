@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Watoto wote hukua na hubadilika kwa mfumo unaofanana,\r\nhata hivyo kila mtoto hubadilika kivyake. Kila mtoto anavyo vitu\r\nvyake vinavyomvutia, silika yake, aina yake ya kuishirikiana na\r\nwatu wengine na namna yake ya kujifunza. ", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Watoto wote hukua na hubadilika kwa mfumo unaofanana, hata hivyo kila mtoto hubadilika kivyake. Kila mtoto anavyo vitu vyake vinavyomvutia, silika yake, aina yake ya kuishirikiana na watu wengine na n", 
   "primary_category": "84c39134746243a1a04fc013fd1b1e0e", 
   "created_at": "2014-10-12T17:40:36.881540+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:47.771274+00:00", 
+  "modified_at": "2015-12-11T10:24:18.530398+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "watoto-wote-hukua-na-hubadilika-kwa-mfumo-unaofanana-hata-hivyo-kila-mtoto-hubadilika-kivyake-kila-mtoto-anavyo-vitu-vyake-vinavyomvutia-silika-yake-aina-yake-ya-kuishirikiana-na-watu-wengine-na-n", 
   "uuid": "17a4c82ab3334e958c0262d9221b42ed"
 }
