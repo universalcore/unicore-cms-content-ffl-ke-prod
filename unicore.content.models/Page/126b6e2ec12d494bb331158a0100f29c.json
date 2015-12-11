@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "VVU (Virusi vya UKIMWI) ni virusi ambavyo husababisha\r\nugonjwa wa UKIMWI (Ukosefu wa Kinga Mwilini). Ni ugonjwa\r\nunaokingika na kutibika, lakini hauponyeki. Watu wanaweza\r\nkuambukizwa VVU kwa: (1) kufanya ngono isiyo salama\r\nna mtu aliyeambukizwa VVU (kufanya ngono bila kutumia\r\nkondomu za kiume au za kike); (2) maambukizo toka kwa mama\r\naliyeambukizwa kwenda kwa mtoto wake wakati wa ujauzito,\r\nwakati wa kujifungua, au wakati wa kumnyonyesha; na (3)\r\nmabomba ya sindano, sindano, au vitu vyenye ncha kali vyenye\r\ndamu iliyo na VVU, na kutoa na kuongezewa damu iliyo na VVU.\r\nVVU haviambukizwi kwa kugusana au njia zingine. ", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "VVU (Virusi vya UKIMWI) ni virusi ambavyo husababisha ugonjwa wa UKIMWI (Ukosefu wa Kinga Mwilini). Ni ugonjwa unaokingika na kutibika, lakini hauponyeki. Watu wanaweza kuambukizwa VVU kwa: (1) kufany", 
   "primary_category": "62caccc5066b4e9f82185983536893fb", 
   "created_at": "2014-10-13T14:09:21.484972+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:22.563524+00:00", 
+  "modified_at": "2015-12-11T10:25:11.227680+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 9, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "vvu-virusi-vya-ukimwi-ni-virusi-ambavyo-husababisha-ugonjwa-wa-ukimwi-ukosefu-wa-kinga-mwilini-ni-ugonjwa-unaokingika-na-kutibika-lakini-hauponyeki-watu-wanaweza-kuambukizwa-vvu-kwa-1-kufany", 
   "uuid": "126b6e2ec12d494bb331158a0100f29c"
 }
