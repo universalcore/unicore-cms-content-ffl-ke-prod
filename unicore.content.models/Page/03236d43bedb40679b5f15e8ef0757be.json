@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Chakula, vyombo, na maandalizi ya sehemu zinazotumiwa\r\nkuhifadhia chakula vinapaswa kuwa safi na mbali na wanyama.\r\nChakula hupaswa kuhifadhiwa katika vyombo vilivyofunikwa.", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Chakula, vyombo, na maandalizi ya sehemu zinazotumiwa kuhifadhia chakula vinapaswa kuwa safi na mbali na wanyama. Chakula hupaswa kuhifadhiwa katika vyombo vilivyofunikwa.", 
   "primary_category": "ab26c6bfad66410a82b0e274f4c3b729", 
   "created_at": "2014-10-13T10:48:02.962660+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:32.026021+00:00", 
+  "modified_at": "2015-12-11T10:24:05.521523+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "chakula-vyombo-na-maandalizi-ya-sehemu-zinazotumiwa-kuhifadhia-chakula-vinapaswa-kuwa-safi-na-mbali-na-wanyama-chakula-hupaswa-kuhifadhiwa-katika-vyombo-vilivyofunikwa", 
   "uuid": "03236d43bedb40679b5f15e8ef0757be"
 }
