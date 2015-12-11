@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Wakati wa ugonjwa, watoto wadogo wanapaswa kupewa maji zaidi,\r\nikiwa ni pamoja na maziwa ya mama\u2014kwa mtoto anayenyonya\u2014na\r\nwahimizwe kuendelea kula vyakula vya kawaida. Baada ya ugonjwa,\r\nwatoto wadogo anapaswa kupewa chakula zaidi kuliko kawaida ili\r\nkufidia nguvu na virutubisho vilivyopotea kutokana na ugonjwa.", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Wakati wa ugonjwa, watoto wadogo wanapaswa kupewa maji zaidi, ikiwa ni pamoja na maziwa ya mama\u2014kwa mtoto anayenyonya\u2014na wahimizwe kuendelea kula vyakula vya kawaida. Baada ya ugonjwa, watoto wadogo a", 
   "primary_category": "580d1f91a1c84a08a30f201143d4f3a9", 
   "created_at": "2014-10-12T19:18:19.737421+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:41.898637+00:00", 
+  "modified_at": "2015-12-11T10:24:11.754730+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": true, 
   "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "wakati-wa-ugonjwa-watoto-wadogo-wanapaswa-kupewa-maji-zaidi-ikiwa-ni-pamoja-na-maziwa-ya-mamakwa-mtoto-anayenyonyana-wahimizwe-kuendelea-kula-vyakula-vya-kawaida-baada-ya-ugonjwa-watoto-wadogo", 
   "uuid": "2c2ec1050ce147dd8851f92c7dbf140e"
 }
