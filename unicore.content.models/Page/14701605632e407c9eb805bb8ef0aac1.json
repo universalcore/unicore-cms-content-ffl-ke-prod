@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Hatari za kujifungua kwa mama na mtoto wake zinaweza \r\nkupunguzwa kwa kiasi kikubwa kama mama akiwa na afya \r\nna lishe nzuri kabla ya kupata ujauzito. Wakati wa ujauzito \r\nna ule wa kunyonyesha, mama wote huhitaji vyakula vyenye \r\nlishe bora zaidi, kiasi kingi zaidi cha chakula pamoja na muda \r\nwa kutosha wa kupumzika. Hawana budi kutumia chumvi \r\niliyoongezwa madini joto kwa ajili ya kuhakikisha kuwa watoto \r\nwao wanakuwa vizuri kiakili. Wanapaswa pia kutumia vidonge \r\nvya madini chuma au vyenye virutubsho vya kufidia lishe \r\nndogondogo mwilini, wakati wote wa ujauzito na unyonyeshaji \r\nhata kama wanapata mlo kamili kilishe. ", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Hatari za kujifungua kwa mama na mtoto wake zinaweza  kupunguzwa kwa kiasi kikubwa kama mama akiwa na afya  na lishe nzuri kabla ya kupata ujauzito. Wakati wa ujauzito  na ule wa kunyonyesha, mama wot", 
   "primary_category": "27038d5886564782adcce92ec89494eb", 
   "created_at": "2014-10-10T19:39:41.822667+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:51.818486+00:00", 
+  "modified_at": "2015-12-11T10:23:43.493793+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 8, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "hatari-za-kujifungua-kwa-mama-na-mtoto-wake-zinaweza-kupunguzwa-kwa-kiasi-kikubwa-kama-mama-akiwa-na-afya-na-lishe-nzuri-kabla-ya-kupata-ujauzito-wakati-wa-ujauzito-na-ule-wa-kunyonyesha-mama-wot", 
   "uuid": "14701605632e407c9eb805bb8ef0aac1"
 }
