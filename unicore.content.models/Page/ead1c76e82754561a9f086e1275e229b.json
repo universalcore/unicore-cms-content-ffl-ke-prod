@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Kila mtoto ana haki ya jina na utaifa. Utaratibu wa kusajili\r\nwatoto wakati wa kuzaliwa unasaidia kuhakikisha kuwa mtoto\r\nanapata haki yake ya elimu, huduma za afya, sheria na huduma\r\nza kijamii. Usajili wa mtoto wakati wa kuzaliwa ni hatua\r\nmuhimu ya kutoa ulinzi kwa mtoto dhidi ya unyanyasaji na\r\nunyonyaji.", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Kila mtoto ana haki ya jina na utaifa. Utaratibu wa kusajili watoto wakati wa kuzaliwa unasaidia kuhakikisha kuwa mtoto anapata haki yake ya elimu, huduma za afya, sheria na huduma za kijamii. Usajili", 
   "primary_category": "76ea8c058e6843689bda31c8c5c31776", 
   "created_at": "2014-10-13T15:23:07.972096+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:18.771016+00:00", 
+  "modified_at": "2015-12-11T10:24:57.142872+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 7, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "kila-mtoto-ana-haki-ya-jina-na-utaifa-utaratibu-wa-kusajili-watoto-wakati-wa-kuzaliwa-unasaidia-kuhakikisha-kuwa-mtoto-anapata-haki-yake-ya-elimu-huduma-za-afya-sheria-na-huduma-za-kijamii-usajili", 
   "uuid": "ead1c76e82754561a9f086e1275e229b"
 }
