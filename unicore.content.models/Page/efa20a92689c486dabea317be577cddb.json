@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Ni salama kumchanja mtoto mwenye ugonjwa wa kawaida au\r\nulemavu, au utapiamlo. ", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Ni salama kumchanja mtoto mwenye ugonjwa wa kawaida au ulemavu, au utapiamlo. ", 
   "primary_category": "f1977f57cd124b348820df64ee59bc1a", 
   "created_at": "2014-10-12T19:43:20.569171+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:40.301244+00:00", 
+  "modified_at": "2015-12-11T10:23:37.799497+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "ni-salama-kumchanja-mtoto-mwenye-ugonjwa-wa-kawaida-au-ulemavu-au-utapiamlo", 
   "uuid": "efa20a92689c486dabea317be577cddb"
 }
