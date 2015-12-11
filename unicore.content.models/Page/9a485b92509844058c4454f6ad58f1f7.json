@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Mama wajawazito wote wanapaswa kuzungumza na wataalam\r\nwa afya kuhusu VVU. Mama wajawazito wote wanaodhani kuwa\r\nwana wenza au wanafamilia walioambukizwa VVU, wako katika\r\nmazingira ya kuambukizwa VVU, au wanaishi katika mazingira\r\nambayo ugonjwa huu umeenea sana, wanapaswa kupimwa\r\nVVU na kupata huduma ya ushauri nasaha ili kujifunza jinsi ya\r\nkujilinda au kujitunza wenyewe na watoto wao, wenzi wao, na\r\nwanafamilia. ", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Mama wajawazito wote wanapaswa kuzungumza na wataalam wa afya kuhusu VVU. Mama wajawazito wote wanaodhani kuwa wana wenza au wanafamilia walioambukizwa VVU, wako katika mazingira ya kuambukizwa VVU, a", 
   "primary_category": "62caccc5066b4e9f82185983536893fb", 
   "created_at": "2014-10-13T14:14:51.438223+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:21.886086+00:00", 
+  "modified_at": "2015-12-11T10:25:11.074745+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 7, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "mama-wajawazito-wote-wanapaswa-kuzungumza-na-wataalam-wa-afya-kuhusu-vvu-mama-wajawazito-wote-wanaodhani-kuwa-wana-wenza-au-wanafamilia-walioambukizwa-vvu-wako-katika-mazingira-ya-kuambukizwa-vvu", 
   "uuid": "9a485b92509844058c4454f6ad58f1f7"
 }
