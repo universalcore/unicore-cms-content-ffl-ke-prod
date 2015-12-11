@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Kuanguka ni chanzo kikubwa cha majeraha kwa watoto. Ngazi,\r\nbaraza la ghorofani, mapaa, madirisha na maeneo wanayotumia\r\nkwa kucheza na kulala yanapaswa kuwekwa katika hali ya\r\nusalama kwa kutumia vizuizi pamoja na kutumia miti/nondo\r\nzilizosimama wima ili kuzuia watoto wasianguke.", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Kuanguka ni chanzo kikubwa cha majeraha kwa watoto. Ngazi, baraza la ghorofani, mapaa, madirisha na maeneo wanayotumia kwa kucheza na kulala yanapaswa kuwekwa katika hali ya usalama kwa kutumia vizuiz", 
   "primary_category": "8db1a6f44dd9426da7a50a4664bb84cf", 
   "created_at": "2014-10-13T11:42:49.116777+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:29.369041+00:00", 
+  "modified_at": "2015-12-11T10:24:48.554747+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 3, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "kuanguka-ni-chanzo-kikubwa-cha-majeraha-kwa-watoto-ngazi-baraza-la-ghorofani-mapaa-madirisha-na-maeneo-wanayotumia-kwa-kucheza-na-kulala-yanapaswa-kuwekwa-katika-hali-ya-usalama-kwa-kutumia-vizuiz", 
   "uuid": "fe858771acb6415ab8327380ab64ee1b"
 }
