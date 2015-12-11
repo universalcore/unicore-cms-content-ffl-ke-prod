@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Watoto wadogo wanakuwa hatarini wanapokuwa karibu na barabara au barabarani. Hawapaswi kucheza karibu na barabara au barabarani na wanapaswa kuwa na mtu mkubwa muda wote wakiwa karibu na au wanapovuka barabara. Wanapaswa kuvaa helmeti wakiendesha baisikeli au pikipiki na wafungwe mikanda vizuri wanaposafirishwa kama abiria garini.", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Watoto wadogo wanakuwa hatarini wanapokuwa karibu na barabara au barabarani", 
   "primary_category": "8db1a6f44dd9426da7a50a4664bb84cf", 
   "created_at": "2014-10-09T19:20:58.439420+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:54.146194+00:00", 
+  "modified_at": "2015-12-11T10:24:48.799767+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 6, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "watoto-wadogo-wanakuwa-hatarini-wanapokuwa-karibu-na-barabara-au-barabarani", 
   "uuid": "2610161f638f42d4b17f939692d98659"
 }
