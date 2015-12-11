@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Kuna hatari kwa mama aliyeambukizwa VVU kumwambukiza\r\nmtoto wake wakati wa kumnyonyesha. Katika miezi sita ya\r\nkwanza, hatari ni kubwa zaidi iwapo mtoto ananyonyeshwa\r\nna kulishwa vyakula vingine vya majimaji kuliko kama\r\nananyonyeshwa maziwa ya mama pekee. Hivyo inashauriwa\r\nkwamba mtoto anyonyeshwe maziwa ya mama pekee kwa miezi\r\nsita ya mwanzo, isipokuwa kama kuna ulazima wa kutofanya\r\nhivyo na kwa kuzingatia, uwezekano, uwezo na upatikanaji wa\r\nuhakika wa maziwa mbadala (maziwa ya watoto ya dukani). ", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Kuna hatari kwa mama aliyeambukizwa VVU kumwambukiza mtoto wake wakati wa kumnyonyesha. Katika miezi sita ya kwanza, hatari ni kubwa zaidi iwapo mtoto ananyonyeshwa na kulishwa vyakula vingine vya maj", 
   "primary_category": "eadb116abd4b427c84316e8f3963b2d6", 
   "created_at": "2014-10-12T18:34:02.906312+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:45.732651+00:00", 
+  "modified_at": "2015-12-11T10:23:58.399229+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "kuna-hatari-kwa-mama-aliyeambukizwa-vvu-kumwambukiza-mtoto-wake-wakati-wa-kumnyonyesha-katika-miezi-sita-ya-kwanza-hatari-ni-kubwa-zaidi-iwapo-mtoto-ananyonyeshwa-na-kulishwa-vyakula-vingine-vya-maj", 
   "uuid": "915084af9886455a9d82ccb13e5655e6"
 }
