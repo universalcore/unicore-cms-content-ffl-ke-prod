@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Mtoto mdogo anapaswa kukua na kuongezeka uzito haraka.\r\nTangu kuzaliwa hadi umri wa miaka miwili, watoto wanapaswa\r\nkupimwa uzito mara kwa mara ili kufuatilia ukuaji wake.\r\nUpimaji wa uzito wa mara kwa mara ukionyesha kuwa mtoto\r\nhaongezeki uzito, au wazazi na walezi wengine wanaona mtoto\r\nhakui, ifahamike kuwa kuna tatizo. Mtoto huyo anapaswa\r\nkuchunguzwa na mtaalamu wa afya", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Mtoto mdogo anapaswa kukua na kuongezeka uzito haraka. Tangu kuzaliwa hadi umri wa miaka miwili, watoto wanapaswa kupimwa uzito mara kwa mara ili kufuatilia ukuaji wake. Upimaji wa uzito wa mara kwa m", 
   "primary_category": "580d1f91a1c84a08a30f201143d4f3a9", 
   "created_at": "2014-10-12T18:52:40.934194+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:44.679540+00:00", 
+  "modified_at": "2015-12-11T10:24:12.282342+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 8, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "mtoto-mdogo-anapaswa-kukua-na-kuongezeka-uzito-haraka-tangu-kuzaliwa-hadi-umri-wa-miaka-miwili-watoto-wanapaswa-kupimwa-uzito-mara-kwa-mara-ili-kufuatilia-ukuaji-wake-upimaji-wa-uzito-wa-mara-kwa-m", 
   "uuid": "168c39969bc549108d1ab6c1d1ba580b"
 }
