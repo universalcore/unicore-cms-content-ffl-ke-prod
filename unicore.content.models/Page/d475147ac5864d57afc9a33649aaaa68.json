@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "HIV (human immunodeficiency virus) is the virus that causes AIDS (acquired immunodeficiency syndrome). It is preventable and treatable, but incurable. People can become infected with HIV through (1) unprotected sexual contact with an HIV-infected person (sex without the use of a male or female condom); (2) transmission from an HIV-infected mother to her child during pregnancy, childbirth or breastfeeding; and (3) blood from HIV-contaminated syringes, needles or other sharp instruments and transfusion with HIV-contaminated blood. It is not transmitted by casual contact or other means.", 
-  "language": "eng_GB", 
+  "language": "eng_US", 
   "title": "HIV (human immunodeficiency virus) is the virus that causes AIDS (acquired immunodeficiency syndrome). It is preventable and treatable, but incurable. People can become infected with HIV through (1) u", 
   "primary_category": "99fdaf31bc2949a5ab89f7b2217811d6", 
   "created_at": "2014-09-15T09:22:34+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:55.815537+00:00", 
+  "modified_at": "2015-12-11T10:21:10.606265+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "hiv-human-immunodeficiency-virus-is-the-virus-that-causes-aids-acquired-immunodeficiency-syndrome-it-is-preventable-and-treatable-but-incurable-people-can-become-infected-with-hiv-through-1-u", 
   "uuid": "d475147ac5864d57afc9a33649aaaa68"
 }
