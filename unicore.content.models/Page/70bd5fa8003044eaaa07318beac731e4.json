@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Watoto wanahitaji vitamini A ili kuwasaidia kujikinga dhidi ya\r\nmaradhi/homa, kulinda uwezo wao wa kuona, na kupunguza hatari\r\nya kupoteza maisha. Vitamini A inaweza kupatikana katika matunda\r\nna mbogamboga nyingi, mafuta mekundu ya mawese, mayai,\r\nbidhaa za maziwa, maini, samaki, nyama, vyakula vilivyoongezewa\r\nvirutubisho, na maziwa ya mama. Katika maeneo yenye upungufu\r\nwa vitamini A, watoto wenye umri wa kati ya miezi 6 na miaka 5,\r\nwanaweza kupewa vidonge maalumu vya kuongeza vitamini A, kila\r\nbaada ya miezi minne hadi sita.", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Watoto wanahitaji vitamini A ili kuwasaidia kujikinga dhidi ya maradhi/homa, kulinda uwezo wao wa kuona, na kupunguza hatari ya kupoteza maisha. Vitamini A inaweza kupatikana katika matunda na mbogamb", 
   "primary_category": "580d1f91a1c84a08a30f201143d4f3a9", 
   "created_at": "2014-10-12T19:08:36.835352+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:43.088336+00:00", 
+  "modified_at": "2015-12-11T10:24:11.971766+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "watoto-wanahitaji-vitamini-ili-kuwasaidia-kujikinga-dhidi-ya-maradhihoma-kulinda-uwezo-wao-wa-kuona-na-kupunguza-hatari-ya-kupoteza-maisha-vitamini-inaweza-kupatikana-katika-matunda-na-mbogamb", 
   "uuid": "70bd5fa8003044eaaa07318beac731e4"
 }
