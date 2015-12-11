@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Mothers, even malnourished mothers, can still breastfeed even under the stressful conditions of emergencies.", 
-  "language": "eng_GB", 
+  "language": "eng_US", 
   "title": "Mothers, even malnourished mothers, can still breastfeed even under the stressful conditions of emergencies.", 
   "primary_category": "13268372781c4187a13a871b7c177fd0", 
   "created_at": "2014-09-12T11:03:48.702870+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:21:00.698347+00:00", 
+  "modified_at": "2015-12-11T10:21:03.942964+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "mothers-even-malnourished-mothers-can-still-breastfeed-even-under-the-stressful-conditions-of-emergencies", 
   "uuid": "df5c978307f040888065bb61ea00edf0"
 }
