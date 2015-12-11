@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Wasichana wenye elimu na afya nzuri na ambao wamekuwa \r\nwakipata lisha bora katika maisha yao ya utotoni na ujanani \r\nwana uwezekano wa kujifungua watoto wenye afya, kubeba \r\nmimba na kujifungua salama na kutokupata matatizo mengi \r\nwakati wa ujauzito na wa kujifungua. ", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Wasichana wenye elimu na afya nzuri na ambao wamekuwa  wakipata lisha bora katika maisha yao ya utotoni na ujanani  wana uwezekano wa kujifungua watoto wenye afya, kubeba  mimba na kujifungua salama n", 
   "primary_category": "27038d5886564782adcce92ec89494eb", 
   "created_at": "2014-10-10T19:35:47.429407+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:52.133891+00:00", 
+  "modified_at": "2015-12-11T10:23:43.571188+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 9, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "wasichana-wenye-elimu-na-afya-nzuri-na-ambao-wamekuwa-wakipata-lisha-bora-katika-maisha-yao-ya-utotoni-na-ujanani-wana-uwezekano-wa-kujifungua-watoto-wenye-afya-kubeba-mimba-na-kujifungua-salama-n", 
   "uuid": "77d63d9f150c498390285cfe3696207f"
 }
