@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Chanjo ni lazima. Kila mtoto lazima akamilishe idadi ya chanjo\r\nanazostahili kupata. Kinga ya mapema ni muhimu sana; chanjo\r\nkatika mwaka wa kwanza na wa pili ni muhimu sana. Wazazi\r\nwote au walezi wanapaswa kufuata ushauri wa mtaalamu wa\r\nafya kuhusu muda wa kukamilisha chanjo.", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Chanjo ni lazima. Kila mtoto lazima akamilishe idadi ya chanjo anazostahili kupata. Kinga ya mapema ni muhimu sana; chanjo katika mwaka wa kwanza na wa pili ni muhimu sana. Wazazi wote au walezi wanap", 
   "primary_category": "f1977f57cd124b348820df64ee59bc1a", 
   "created_at": "2014-10-12T19:35:42.980147+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:41.180406+00:00", 
+  "modified_at": "2015-12-11T10:23:37.942826+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 6, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "chanjo-ni-lazima-kila-mtoto-lazima-akamilishe-idadi-ya-chanjo-anazostahili-kupata-kinga-ya-mapema-ni-muhimu-sana-chanjo-katika-mwaka-wa-kwanza-na-wa-pili-ni-muhimu-sana-wazazi-wote-au-walezi-wanap", 
   "uuid": "7a6bd4124c414fd19e2828f55a7e9b59"
 }
