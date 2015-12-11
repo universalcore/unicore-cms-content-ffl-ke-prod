@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "The risks associated with childbearing for the mother and her baby can be greatly reduced if a woman is healthy and well nourished before becoming pregnant. During pregnancy and while breastfeeding, all women need more nutritious meals, increased quantities of food, more rest than usual, iron-folic acid or multiple micronutrient supplements, even if they are consuming fortified foods, and iodized salt to ensure the proper mental development of their babies.", 
-  "language": "eng_GB", 
+  "language": "eng_US", 
   "title": "The risks associated with childbearing for the mother and her baby can be greatly reduced if a woman is healthy and well nourished before becoming pregnant. During pregnancy and while breastfeeding, a", 
   "primary_category": "e1da05c882364f7c891f9da57f5e981d", 
   "created_at": "2014-09-10T13:24:42.149806+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:21:24.847825+00:00", 
+  "modified_at": "2015-12-11T10:21:58.325236+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": true, 
   "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "the-risks-associated-with-childbearing-for-the-mother-and-her-baby-can-be-greatly-reduced-if-a-woman-is-healthy-and-well-nourished-before-becoming-pregnant-during-pregnancy-and-while-breastfeeding-a", 
   "uuid": "b7c917d448a247b8907ad261bfdfb0dc"
 }
