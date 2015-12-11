@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Madini joto ni muhimu kwa ajili ya kuzuia matatizo ya kujifunza\r\nna kuchelewa kwa mabadiliko. Madini joto katika lishe ya mama\r\nwajawazito na watoto wadogo ni muhimu sana kwa ajili ya\r\nukomavu wa akili ya mtoto. Kutumia chumvi iliyoongezewa madini\r\njoto badala ya chumvi ya kawaida kunawapa mama wajawazito na\r\nwatoto wao wachanga kiasi cha kutosha cha madini joto", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Madini joto ni muhimu kwa ajili ya kuzuia matatizo ya kujifunza na kuchelewa kwa mabadiliko. Madini joto katika lishe ya mama wajawazito na watoto wadogo ni muhimu sana kwa ajili ya ukomavu wa akili y", 
   "primary_category": "580d1f91a1c84a08a30f201143d4f3a9", 
   "created_at": "2014-10-12T19:12:36.967264+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:20:42.662763+00:00", 
+  "modified_at": "2015-12-11T10:24:11.901178+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 3, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "madini-joto-ni-muhimu-kwa-ajili-ya-kuzuia-matatizo-ya-kujifunza-na-kuchelewa-kwa-mabadiliko-madini-joto-katika-lishe-ya-mama-wajawazito-na-watoto-wadogo-ni-muhimu-sana-kwa-ajili-ya-ukomavu-wa-akili-y", 
   "uuid": "7cd784eb022548c6b7a870581bb252ec"
 }
